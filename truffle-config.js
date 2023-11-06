@@ -43,7 +43,7 @@
 
 // require('dotenv').config();
 // const { MNEMONIC, PROJECT_ID } = process.env;
-const MNEMONIC = "b239d595137590b5c6331a8ec9798e56bc8cd5e5028a2c3e6a88bc5a16ad5a70" ;
+const MNEMONIC = "0xb239d595137590b5c6331a8ec9798e56bc8cd5e5028a2c3e6a88bc5a16ad5a70" ;
 // const ACCOUNT = "0x7b2a36411a82fd51de5d47E104D4B8025685748B" ;
 const HDWalletProvider = require('@truffle/hdwallet-provider');
 
